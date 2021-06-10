@@ -1,0 +1,75 @@
+h1{
+    color :rgb(9, 176, 241);
+    font-size : 100px;
+    background-color :lavenderblush;
+    text-align: center;
+}
+#n{
+    border : 10px solid rgb(201, 204, 16);
+    border-radius: 10px;
+    width : 500px;
+    height : 100px;
+    margin : 20px 400px;
+    padding : 10px;
+}
+h2{
+    color :blue;
+    background-color :rgb(163, 163, 172);
+    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align :center;
+}
+#s{
+    font-size : 10px;
+}
+#is{
+    max-width : 50%;
+    margin :auto;
+}
+#sa{
+    font-size : 10px;
+}
+#c{
+    font-size : 10px;
+}
+#ci{
+    max-width : 50%;
+    margin :auto;
+}
+#sai{
+    max-width: 50%;
+    margin :auto;
+    display: block;
+}
+.blog{
+    border : 2px solid rgb(6, 55, 146);
+    border-radius: 5px;
+    width : 300px;
+    height : 300px;
+    padding : 10px;
+    margin : 10px;
+    display :inline-block;
+}
+p{
+    text-align :justify;
+}
+
+#linkk{
+    width: 200px!important;
+    margin: auto!important;
+}
+#linkk a{
+    font-size: 20px;
+    color: blue;
+}
+#linkk a:hover{
+    font-size: 20px;
+    color: yellow;
+}
+#linkk a:visited{
+    font-size: 20px;
+    color: green;
+}
+#linkk a:active{
+    font-size: 20px;
+    color: red;
+}
